@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarwaKhalifa
 - 👀 I’m interested in UI/UX DESIGN
-- 🌱 I’m currently learning ANGULAR
+- 🌱 I’m currently learning FRONT END DEVELOPMENT (REACT)
 - 💞️ I’m looking to collaborate on PROJECTS BASED ON FRONR END WEB DEVELOPMENT
 - 📫 How to reach me MARWAKHALIFA39@GMAIL.COM
 
